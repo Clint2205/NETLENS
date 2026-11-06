@@ -1,0 +1,74 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Private raw datasets and network captures
+data/raw/
+*.pcap
+*.pcapng
+*.cap
+
+# Generated analysis outputs and models
+outputs/
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# IDE and operating system
+.vscode/
+.DS_Store
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Private raw datasets and network captures
+data/raw/
+*.pcap
+*.pcapng
+*.cap
+
+# Generated analysis outputs and models
+outputs/
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# IDE and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+Thumbs.db
